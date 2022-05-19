@@ -39,6 +39,10 @@ nav ul li a {
   font-family: "Poppins", sans-serif;
   color: #9452a5;
 }
+.fa-bag-shopping{
+  color: #9452a5;
+  font-size: .5rem;
+}
 .product {
   position: relative;
   display: inline-block;
